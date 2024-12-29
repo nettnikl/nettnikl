@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-*Currently employed as working student in [University of Augsburg](https://www.uni-augsburg.de/de/) and at [digatus technology](https://digatus.com).*
+*Currently employed as Senior DevSecOps at [digatus technology](https://digatus.com).*
 
 Interested in
 - **backend development**,
